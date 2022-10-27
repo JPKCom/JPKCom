@@ -14,6 +14,6 @@
 
 ---
 
-> <a href="https://www.jpkc.com/"><img src="./JPKCube.svg" alt="JPKCube" width="128"> <img src="./JPKCom.svg" alt="JPKCom" width="128"> <img src="./JPK.svg" alt="JPK" width="128"></a>
+<a href="https://www.jpkc.com/"><img src="./JPKCube.svg" alt="JPKCube" width="128" style="margin-right:1rem;"><img src="./JPKCom.svg" alt="JPKCom" width="128" style="margin-right:1rem;"><img src="./JPK.svg" alt="JPK" width="128"></a>
 
 ---
