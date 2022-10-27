@@ -11,3 +11,16 @@
     </skills>
 </JeanPierreKolb>
 ```
+&nbsp;
+
+---
+
+&nbsp;
+
+<img src="./JPKCube.svg" alt="JPKCube" width="128">
+<img src="./JPKCom.svg" alt="JPKCom" width="128">
+<img src="./JPK.svg" alt="JPK" width="128">
+
+&nbsp;
+
+---
